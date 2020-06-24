@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">BNav</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
-    <string name="title_settings">title_settings</string>
-    <string name="title_log">title_log</string>
-    <string name="settings">Settings</string>
+    <string name="title_search">Search</string>
+    <string name="title_log">Log</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_profile">Profile</string>
+
 
     <string name="breakfast">Breakfast</string>
     <string name="lunch">Lunch</string>
